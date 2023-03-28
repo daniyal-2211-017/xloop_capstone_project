@@ -1,5 +1,5 @@
 
-# DEG Group 5 Capstone Project
+# Room Occupancy Detection
 
 ## Team members
 
